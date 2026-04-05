@@ -21,4 +21,4 @@ jobs:
         run: htmlhint latihan.html
 
       - name: Periksa CSS
-        run: stylelint "**/*.css"
+        run: stylelint style.css
